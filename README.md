@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hey there! I'm [@abanoub-samy-farhan](https://www.linkedin.com/in/abanoub-s-farhan-045430265/)
-- 👀 I am interested in Web Application, and Web Development.
-- 🌱 I’m currently exploring Node.js and React Framework.
+- 👀 I am interested in Web Application, and Machine Learning.
+- 🌱 I’m currently exploring Machine Learning foundations and algorthims.
 
 [![Linkedin Badge](https://img.shields.io/badge/-abanoubfarhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abanoub-s-farhan-045430265/)](https://www.linkedin.com/in/abanoub-s-farhan-045430265/)
 ---
