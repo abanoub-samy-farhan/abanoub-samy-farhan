@@ -1,27 +1,50 @@
-### Hi there 👋
-- 👋 Hey there! I'm [@abanoub-samy-farhan](https://www.linkedin.com/in/abanoub-s-farhan-045430265/)
-- 👀 I am interested in Web Application, and Machine Learning.
-- 🌱 I’m currently exploring Machine Learning foundations and algorthims.
 
-[![Linkedin Badge](https://img.shields.io/badge/-abanoubfarhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abanoub-s-farhan-045430265/)](https://www.linkedin.com/in/abanoub-s-farhan-045430265/)
----
+Hi there! 👋 <br>
+I'm a passionate Software engineer, focused on creating impactful solutions through code. My journey spans across:
 
+- 💻 Web Application Development
+- 🤖 Machine Learning
+- ☁️ Cloud computing
+- 🌱 Currently diving deep into algorithms and internals of databases
 
----
+<br>
 
-[![Abanoub Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abanoub-samy-farhan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoub-samy-farhan&layout=donut)](https://github.com/abanoub-samy-farhan/github-readme-stats)
-<!--
-**abanoub-samy-farhan/abanoub-samy-farhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub-s-farhan-045430265/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abanoubsamy2341@gmail.com)
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abanoub-samy-farhan&theme=midnight-purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoub-samy-farhan&layout=compact&theme=midnight-purple&show_icons=true" />
+</div>
+
+## 💻 Tech Stack
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,typescript,go,py,c,cpp" alt="Programming Languages" />
+  </a>
+</p>
+
+### Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Web Development" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,django,flask,nextjs" alt="Web Development" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,redis" alt="Web Development" />
+  </a>
+</p>
+
+### Developer Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux,windows,mac" alt="Developer Tools" />
+  </a>
+</p>
